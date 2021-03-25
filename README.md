@@ -2,4 +2,4 @@ This is a simple to-do application that has full functionality (except user save
 
 State, hooks, callbacks etc are all used. CSS, Javascript, JSX, React, HTML.
 
-You can visit here: joeymonachino.github.io/todolist
+You can visit here: https://joeymonachino.github.io/todolist
